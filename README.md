@@ -6,9 +6,9 @@ A hands-on learning repository following along with **Python Distilled** by Davi
 
 ## Table of Contents
 
-| Chapter | Title | Status |
-|---------|-------|--------|
-| 1 | [Primitives, Variables and Expressions](chapter_1/chapter_1.ipynb) | In Progress |
+| Chapter | Title | Description | Status |
+|:-------:|-------|-------------|:------:|
+| 1 | [Python Basics](chapter_1/chapter_1_python_basics.ipynb) | Basic types, operators, control flow, and strings | In Progress |
 
 ---
 
@@ -20,7 +20,7 @@ Python Distilled/
 ├── README.md
 │
 └── chapter_1/
-    └── chapter_1.ipynb    # Primitives, Variables and Expressions
+    └── chapter_1_python_basics.ipynb    # Python Basics
 ```
 
 ---
