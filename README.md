@@ -4,6 +4,12 @@ A hands-on learning repository following along with **Python Distilled** by Davi
 
 ---
 
+## Motivation <- Written by my hand.
+
+This project is intentionally done by hand. In a time where Large Language Models can generate code at the click of a button, the goal here is to slow down and actually learn. LLMs are a tool meant to help, not to replace the learning process. Relying too heavily on them leads to shallow understanding, review fatigue, and a bottleneck in real comprehension. True learning requires breaking things down to their smallest detail and understanding how they work, and that only happens when you write the code yourself.
+
+---
+
 ## Table of Contents
 
 | Chapter | Title | Description | Status |
@@ -25,11 +31,25 @@ Python Distilled/
 
 ---
 
-## How to Use
+## Quick Setup
 
 1. Clone the repository
-2. Open the Jupyter notebooks in your preferred environment
-3. Run the cells to see Python concepts in action
+   ```bash
+   git clone https://github.com/Kronixion/python-distilled.git
+   cd python-distilled
+   ```
+2. Create a virtual environment and install Jupyter
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   pip install jupyter
+   ```
+3. Launch Jupyter and open any notebook
+   ```bash
+   jupyter notebook
+   ```
+
+**VS Code Alternative:** Open the project folder in VS Code with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) installed. You can run `.ipynb` files directly in the editor without launching a separate Jupyter server.
 
 ---
 
