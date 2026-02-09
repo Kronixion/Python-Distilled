@@ -14,7 +14,7 @@ This project is intentionally done by hand. In a time where Large Language Model
 
 | Chapter | Title | Description | Status |
 |:-------:|-------|-------------|:------:|
-| 1 | [Python Basics](chapter_1/chapter_1_python_basics.ipynb) | Basic types, operators, control flow, and strings | In Progress |
+| 1 | [Python Basics](chapter_1/chapter_1_python_basics.ipynb) | Basic types, operators, control flow, and strings | Finished |
 
 ---
 
