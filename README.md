@@ -15,6 +15,7 @@ This project is intentionally done by hand. In a time where Large Language Model
 | Chapter | Title | Description | Status |
 |:-------:|-------|-------------|:------:|
 | 1 | [Python Basics](chapter_1/chapter_1_python_basics.ipynb) | Basic types, operators, control flow, and strings | Finished |
+| 2 | [Operators, Expressions, and Data Manipulation](chapter_2/chapter_2_operators_expressions_data_manipulation.ipynb) | Operators Expressions, and Data Manipulation | In Progress |
 
 ---
 
@@ -26,7 +27,10 @@ Python Distilled/
 ├── README.md
 │
 └── chapter_1/
+    └── misc_files/
     └── chapter_1_python_basics.ipynb    # Python Basics
+└── chapter_2/
+    └── chapter_2_operators_expressions_data_manipulation.ipynb
 ```
 
 ---
